@@ -1,9 +1,8 @@
-# Lecture-10-11-12-ReactNative
-Using MobileNet (Tensorflow AI Model) for Object Detection from Captured Images + Firebase Authentication /Storage
+# MAD quiz 02
+Updating the UI and integrating AI.
 
 ## TensorFlow AI Model
-1. Used pretrained MobileNet model for object detection from images
-2. Go to https://www.npmjs.com/search?q=tensorflow%20models to use Model of your own choice.
+1. Tensor flow AI of od image classification and object detection are used. 
 
 ## Firebase Configuration
 In **firebase.js** file add your firebase configuration object. The steps to obtain your object are:
@@ -13,7 +12,11 @@ In **firebase.js** file add your firebase configuration object. The steps to obt
 4. Add your project name and get creditional
 
 ## Method to run this project
-1. Clone directory (git clone https://github.com/KanYousaf/Lecture-10-11-12-ReactNative2024.git) or download ZIP to extract folder
+1. Clone directory  or download ZIP to extract folder
 2. Use powershell or VS code terminal to goto the project directory
-3. Run command "npm install" (It will install the necessary packages of package.json file)
-4. Run command "expo start"
+4. Run command "npm install" (It will install the necessary packages of package.json file)
+5. Run command "expo start"
+
+## Discription
+
+   
